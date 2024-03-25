@@ -5,7 +5,7 @@
 #include <iomanip>
 
 using namespace std;
-//asset tracking
+//asset track
 
 class Asset {
 public:
